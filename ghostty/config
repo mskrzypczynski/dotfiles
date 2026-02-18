@@ -1,0 +1,22 @@
+# By default Reload config with shift + cmd + ,
+
+cursor-style = block
+cursor-style-blink = true
+
+macos-titlebar-style = hidden
+macos-option-as-alt = true
+mouse-hide-while-typing = true
+
+font-size = 20
+font-family = JetBrainsMonoNL Nerd Font
+
+confirm-close-surface = false
+window-decoration = true
+window-padding-x = 10
+window-padding-y = 10
+
+
+auto-update = check
+auto-update-channel = stable
+
+copy-on-select = clipboard
